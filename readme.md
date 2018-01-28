@@ -55,4 +55,3 @@ Theming works on the cheating. I have includes core `bootstrap` sass files. whic
 1. Better pug files [with data files](https://tusharghate.com/rendering-pug-templates-with-multiple-data-files)
 2. [Firebase tools](https://github.com/firebase/firebase-tools)
 3. [Surge.sh](http://surge.sh/) and [Netify](https://www.netlify.com/) , [getPubli](https://getpublii.com/)
-
